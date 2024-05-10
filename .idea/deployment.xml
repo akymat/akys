@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="aky" uploadOnCheckin="d61b92f5-0e22-4be3-ac48-dcd52e38fd72" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="aky">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="aky" />
+  </component>
+</project>
